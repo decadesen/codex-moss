@@ -1,0 +1,20 @@
+.coach-panel ul {
+  margin: 8px 0 0;
+  padding-left: 18px;
+  color: #c2c7d5;
+}
+
+.coach-panel li + li {
+  margin-top: 6px;
+}
+
+.coach-focus {
+  margin: 0 0 12px;
+  color: #8bd0ff;
+  font-weight: 600;
+}
+
+.coach-title {
+  margin: 12px 0 6px;
+  font-weight: 600;
+}

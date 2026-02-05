@@ -1,0 +1,19 @@
+.memory-panel ul {
+  list-style: none;
+  padding: 0;
+  margin: 16px 0 0;
+  display: grid;
+  gap: 12px;
+}
+
+.memory-panel li {
+  background: #1f2330;
+  padding: 12px 14px;
+  border-radius: 12px;
+  line-height: 1.5;
+}
+
+.memory-panel span {
+  color: #8bd0ff;
+  font-weight: 600;
+}
