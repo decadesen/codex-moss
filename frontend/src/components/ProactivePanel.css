@@ -1,0 +1,31 @@
+.proactive-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.proactive-item {
+  background: #1f2330;
+  padding: 14px 16px;
+  border-radius: 12px;
+}
+
+.proactive-item .title {
+  margin: 0 0 6px;
+  font-weight: 600;
+}
+
+.proactive-item .description {
+  margin: 0;
+  color: #c2c7d5;
+  line-height: 1.5;
+}
+
+.proactive-action {
+  background: transparent;
+  color: #8bd0ff;
+  border: 1px solid #2c3447;
+  padding: 10px 14px;
+  border-radius: 10px;
+  cursor: pointer;
+}

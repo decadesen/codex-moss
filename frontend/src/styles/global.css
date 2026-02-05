@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", "PingFang SC", "Microsoft Yahei", sans-serif;
+  background: #0e1016;
+  color: #f4f5f7;
+}
+
+button,
+input,
+textarea {
+  font-family: inherit;
+}
